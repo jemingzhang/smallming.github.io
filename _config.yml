@@ -9,7 +9,7 @@
 title: this is title
 description: this is description
 baseurl: ""
-url: "http://www.smallming.com"
+url: ""
 permalink: :title/
 full-url: "" # the base hostname & protocol for your site
 
