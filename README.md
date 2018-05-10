@@ -1,29 +1,7 @@
-Bheema is a theme suitabel for image heavy journal kind of websites. 
+# 个人介绍
 
-Demo: [http://webjeda.com/ashwath/](http://webjeda.com/ashwath/)
+张佳明
+江湖人称: 佳明哥 (拼音:jiamingge)
+英文名:smallming
+个人网站:www.smallming.com
 
-
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
-
-
-## Screenshots
-Default theme:
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Default.png)
-
-Color schemes (Full version)
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Purple.png)
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Blood.png)
-
-![ashwath jekyll theme](http://webjeda.com/ashwath/images/Mango.png)
-
-
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
-
-## License
-MIT License
