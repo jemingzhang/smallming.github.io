@@ -6,4 +6,4 @@
 
 英文名:smallming
 
-个人网站:[博客网址](smallming.com "title")  smallming.com
+个人网站:[博客网址](http://smallming.com "title")  http://smallming.com
