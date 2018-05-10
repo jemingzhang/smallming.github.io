@@ -1,3 +1,2 @@
-# smallming.github.io
+## Bulma Jekyll Theme
 
-主网:www.smallming.com
