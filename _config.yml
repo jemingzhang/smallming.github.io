@@ -1,18 +1,11 @@
-﻿# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+﻿# 总体信息
 title: "张佳明"
 description: > # this means to ignore newlines until "baseurl:"
- Ashwathama is a minimal website with an app like design. It also features card layouts for website elements.
+ 张佳明 英文名:smallming 江湖人称:佳明哥(jiamingge) 主攻:Java , 区块链 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jiamingge.github.io/"
+url: "http://www.smallming.com"
 permalink: :title/
-full-url: "https://jiamingge.github.io/" # the base hostname & protocol for your site
+full-url: "http://www.smallming.com" # the base hostname & protocol for your site
 
 
 # CSS
@@ -20,7 +13,7 @@ sass:
   style: compressed
 
 # Comments - Go to Disqus.com > sign up > get the short-name > insert it here
-disqus-shortname: 
+disqus-shortname: smallming.com
 
 # Tracker
 analytics: UA-83979019-1
@@ -31,13 +24,13 @@ analytics: UA-83979019-1
 simpleform-token: b6d4be9b039b666b3311e1ddcbfb577c
 
 # Redirect users after submitting the form
-redirect-to: http://blog.webjeda.com/thank-you/
+redirect-to: http://www.smallming.com
 
 # Site version
-version: 0.9
+version: 1.0
 
 
-# Post date background - This will change the background of the post date and tag ribbon according to the theme. If set to no default green background will be used. If yes then the theme color scheme is used.
+# 日期背景色,默认绿色
 
 change-date-bg: no
 
@@ -48,12 +41,12 @@ markdown: kramdown
 include: [_pages] # Includes files inside _pages directory [Do not remove this]
 
 author:
-  name: jiamingge
-  image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
-  about: jiamingge is a sage who wrote Mahabharatha. He is the son of Drona. He fought on the Kaurava side against the Pandavas. He put up a pretty good fight with mighty Bhima.
-  twitter: jiamingge  # https://twitter.com/ is automatically added
-  facebook: jiamingge # https://facebook.com/ is automatically added
-  email: jiamingge # mailto: is automatically added
+  name: 张佳明
+  image: zjm.jpg # The author image will be shown on the header. Place this image in /images/ folder.
+  about: 张佳明 英文名:smallming 江湖人称:佳明哥(jiamingge) 主攻:Java , 区块链
+  twitter: no  # https://twitter.com/ is automatically added
+  facebook: no # https://facebook.com/ is automatically added
+  email: no # mailto: is automatically added
   
 gems: 
   - jekyll-seo-tag
