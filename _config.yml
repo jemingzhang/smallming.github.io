@@ -43,7 +43,7 @@ include: [_pages] # Includes files inside _pages directory [Do not remove this]
 author:
   name: 张佳明
   image: zjm.jpg # The author image will be shown on the header. Place this image in /images/ folder.
-  about: 张佳明 英文名:smallming 江湖人称:佳明哥(jiamingge) 主攻:Java , 区块链
+  about: /_pages/about.md 
   twitter: no  # https://twitter.com/ is automatically added
   facebook: no # https://facebook.com/ is automatically added
   email: no # mailto: is automatically added
